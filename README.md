@@ -14,7 +14,7 @@
     For one to view this, any browser is usable but the recommended one is chrome
 
 ### Link to live site on GitHub Pages
-    https://github.com/SospeterKungu/branching-test-project
+    https://sospeterkungu.github.io/branching-test-project/
 
 ### License
     This is an open source project and any programmer is hereby welcome to contribute though permission must be granted in writing by sospeter inc (c) 2020
